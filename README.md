@@ -23,6 +23,8 @@ Each track is managed via isolated branches synchronized directly from Exercism.
 3. A Pull Request is opened to merge the exercise into the main branch.
 4. After merging, the solution file structure is preserved within the track directory.
 
-I started doing these awhile ago but didn't actually check the GitHub, didn't realise Exercism would only send the request but not actually merge. I'll look into setting up a GH action to automate at some point soon.
+~~I started doing these awhile ago but didn't actually check the GitHub, didn't realise Exercism would only send the request but not actually merge. I'll look into setting up a GH action to automate at some point soon.~~
+EDIT: GH Action SET UP.
+
 
 
